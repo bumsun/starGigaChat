@@ -5,7 +5,7 @@
 [Ссылка](https://t.me/starScannerBot) на запущенного бота.
 
 Для успешного тестирования нужно иметь фотографии звездного неба.
-В проекте представлены 3 тестовые фотографии: [test1_vega.jpg](test1_vega.jpg), [test2_procion.jpg](test2_procion.jpg) и [test3_pollux](test3_pollux)
+В проекте представлены 3 тестовые фотографии: [test1_vega.jpg](test1_vega.jpg), [test2_procion.jpg](test2_procion.jpg) и [test3_pollux](test3_pollux)<br/>
 Любую из них нужно закинуть в [бота](https://t.me/starScannerBot). После этого бот активируется и сможет проявить свои возможности.
 
 
