@@ -1,5 +1,5 @@
 # Звездный ассистент - Бот основанный на GihaChain
-![](https://myoctocat.com/assets/images/base-octocat.svg)
+![](header.jpg)
 [Ссылка](https://t.me/starScannerBot) Ссылка для тестирования 
 
 Для успешного тестирования нужно иметь фотографии звездного неба.
